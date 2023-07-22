@@ -1,0 +1,24 @@
+.palabra{
+  display: flex;
+}
+
+.guion{
+  margin: 2px;
+  border-bottom: 1px solid black;
+  width: 32px;
+  height: 45px;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+.botonLetra button{
+  margin: 5px;
+  padding: 5px 0;
+  font-size: 1.3em;
+  background-color: white;
+  border: 1px dotted black;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 35px;
+  text-align: center;
+}
