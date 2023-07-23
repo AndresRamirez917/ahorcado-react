@@ -6,7 +6,7 @@ const Victoria = () => {
   return (
     <>
     <h1>Victoria</h1>
-    <button className="boton" onClick={()=>navegacion("juego/")}>Jugar</button>
+    <button className="boton" onClick={()=>navegacion("/juego/")}>Jugar de nuevo</button>
     </>
   )
 }
